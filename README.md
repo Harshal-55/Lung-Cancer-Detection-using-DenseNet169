@@ -35,8 +35,8 @@ A **Streamlit web application** is developed for **real-time image upload, class
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/lung-cancer-detection.git
-   cd lung-cancer-detection
+   git clone https://github.com/Harshal-55/Lung-Cancer-Detection-using-DenseNet169.git
+   cd Workspace
    ```
 
 2. **Install dependencies**
@@ -46,7 +46,7 @@ A **Streamlit web application** is developed for **real-time image upload, class
 
 3. **Run the Streamlit app**
    ```bash
-   streamlit run app.py
+   streamlit run app_1.py
    ```
 
 4. **Upload a CT scan image** in JPG/PNG format and view:
