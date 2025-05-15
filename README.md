@@ -9,7 +9,7 @@ The model classifies CT scans into three categories:
 
 A **Streamlit web application** is developed for **real-time image upload, classification, and heatmap visualization** to support radiologists in early and accurate diagnosis.
 
-🚀 **Live App:** [Om3101-Lung-App](https://a-lung-detection-09.streamlit.app/)
+🚀 **Live App:** [Lung_cancer_detection_app](https://a-lung-detection-09.streamlit.app/)
 
 ---
 
